@@ -1,2 +1,2 @@
 # personalPark
-깃, 깃헙을 테스트하기 위한 repository
+Vue Js 공부를 위한 개인 작업물
